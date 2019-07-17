@@ -11,6 +11,11 @@ const About = () => {
           "Upload photo of any person and this app will analyze it and return information on age, gender, and multicultural appearance for detected face based on facial characteristics."
         }
       </p>
+      <p className="about navy mt2">
+        {
+          "Sign up with any email address or log in with email: 'test@example.com' and password: 'test'."
+        }
+      </p>
     </div>
   );
 };

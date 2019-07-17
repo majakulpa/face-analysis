@@ -6,7 +6,7 @@ const Navigation = ({ onRouteChange, isSignedIn }) => {
       <nav className="bg-navy mb3 db dt-l w-100 border-box pa2 ph5-l">
         <a
           className="mt2 link white hover-silver dib h2 w2 mr3"
-          href="https://github.com/mrmrs"
+          href="https://github.com/majakulpa"
           title="GitHub"
         >
           <svg
@@ -38,7 +38,7 @@ const Navigation = ({ onRouteChange, isSignedIn }) => {
       <nav className="bg-navy mb3 db dt-l w-100 border-box pa2 ph5-l">
         <a
           className="mt2 link white hover-silver dib h2 w2 mr3"
-          href="https://github.com/majakulpa?tab=repositories"
+          href="https://github.com/majakulpa"
           title="GitHub"
         >
           <svg
